@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>WarHawk</title>
+	<title>PS4club</title>
 	<atom:link href="https://ps4club.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ps4club.github.io/</link>
-	<description>War Games fan page</description>
+	<description>PS4club Games fan page</description>
 	<lastBuildDate>Fri, 01 Oct 2021 23:27:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>

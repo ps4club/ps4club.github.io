@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; WarHawk &#8212; WordPress</title>
+	<title>Log In &lsaquo; PS4club &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://ps4club.github.io/wp-includes/css/dashicons.min.css?ver=5.8.1" type="text/css" media="all">
@@ -51,7 +51,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://ps4club.github.io/">&larr; Go to WarHawk</a>		</p>
+			<a href="https://ps4club.github.io/">&larr; Go to PS4club</a>		</p>
 			</div>
 	<script type="text/javascript" src="https://ps4club.github.io/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://ps4club.github.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
