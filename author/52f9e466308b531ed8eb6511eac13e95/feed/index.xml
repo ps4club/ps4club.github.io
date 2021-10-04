@@ -9,8 +9,8 @@
 
 <channel>
 	<title>brontozawr &#8211; WarHawk</title>
-	<atom:link href="/author/52f9e466308b531ed8eb6511eac13e95/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/52f9e466308b531ed8eb6511eac13e95/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Mon, 13 Sep 2021 06:30:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Upcoming games — October 2021</title>
-		<link>/2749/</link>
-					<comments>/2749/#comments</comments>
+		<link>https://ps4club.github.io/2749/</link>
+					<comments>https://ps4club.github.io/2749/#comments</comments>
 		
 		<dc:creator><![CDATA[brontozawr]]></dc:creator>
 		<pubDate>Mon, 13 Sep 2021 06:30:38 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2749/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2749/</guid>
 
 					<description><![CDATA[Upcoming games — October 2021]]></description>
 										<content:encoded><![CDATA[<p>Upcoming games — October 2021</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2749/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2749/feed/</wfw:commentRss>
 			<slash:comments>6</slash:comments>
 		
 		

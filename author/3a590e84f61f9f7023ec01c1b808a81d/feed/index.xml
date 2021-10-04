@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ignoremefornow &#8211; WarHawk</title>
-	<atom:link href="/author/3a590e84f61f9f7023ec01c1b808a81d/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/3a590e84f61f9f7023ec01c1b808a81d/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Wed, 04 Aug 2021 06:18:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>DYNASTY WARRIORS 9 Empires &#8211; Release Date Trailer</title>
-		<link>/2551/</link>
-					<comments>/2551/#respond</comments>
+		<link>https://ps4club.github.io/2551/</link>
+					<comments>https://ps4club.github.io/2551/#respond</comments>
 		
 		<dc:creator><![CDATA[ignoremefornow]]></dc:creator>
 		<pubDate>Wed, 04 Aug 2021 06:18:48 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2551/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2551/</guid>
 
 					<description><![CDATA[DYNASTY WARRIORS 9 Empires &#8211; Release Date Trailer]]></description>
 										<content:encoded><![CDATA[<p>DYNASTY WARRIORS 9 Empires &#8211; Release Date Trailer</p>
 <p><iframe loading="lazy" title="DYNASTY WARRIORS 9 Empires - Release Date Trailer" width="640" height="360" src="https://www.youtube.com/embed/Z0BMYSJL-gk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2551/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2551/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

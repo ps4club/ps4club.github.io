@@ -9,8 +9,8 @@
 
 <channel>
 	<title>GuyFarruski &#8211; WarHawk</title>
-	<atom:link href="/author/a10982c180021f5a2c0aea69b3dae12e/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/a10982c180021f5a2c0aea69b3dae12e/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Fri, 24 Sep 2021 15:26:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,38 +21,38 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Platinum #97! Another one cleared from the backlog!</title>
-		<link>/2673/</link>
-					<comments>/2673/#comments</comments>
+		<link>https://ps4club.github.io/2673/</link>
+					<comments>https://ps4club.github.io/2673/#comments</comments>
 		
 		<dc:creator><![CDATA[GuyFarruski]]></dc:creator>
 		<pubDate>Fri, 24 Sep 2021 15:26:39 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2673/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2673/</guid>
 
 					<description><![CDATA[Platinum #97! Another one cleared from the backlog!]]></description>
 										<content:encoded><![CDATA[<p>Platinum #97! Another one cleared from the backlog!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2673/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2673/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>[DigimonStory Cyber Sleuth] What a Grindfest this was! Platinum #96 and I&#8217;m super happy it&#8217;s finally done!</title>
-		<link>/2702/</link>
-					<comments>/2702/#comments</comments>
+		<link>https://ps4club.github.io/2702/</link>
+					<comments>https://ps4club.github.io/2702/#comments</comments>
 		
 		<dc:creator><![CDATA[GuyFarruski]]></dc:creator>
 		<pubDate>Sat, 21 Aug 2021 09:19:48 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2702/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2702/</guid>
 
 					<description><![CDATA[[DigimonStory Cyber Sleuth] What a Grindfest this was! Platinum #96 and I&#8217;m super happy it&#8217;s finally done!]]></description>
 										<content:encoded><![CDATA[<p>[DigimonStory Cyber Sleuth] What a Grindfest this was! Platinum #96 and I&#8217;m super happy it&#8217;s finally done!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2702/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2702/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

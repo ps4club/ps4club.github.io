@@ -9,8 +9,8 @@
 
 <channel>
 	<title>MotherHcker &#8211; WarHawk</title>
-	<atom:link href="/author/a1100822f54149619032fee4e90e4c1f/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/a1100822f54149619032fee4e90e4c1f/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Sat, 25 Sep 2021 06:18:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>I got my first ever platinum trophy recently! Absolutely loved this game. I&#8217;m planning on getting the platinum trophies for the rest of the Souls series next.</title>
-		<link>/2536/</link>
-					<comments>/2536/#comments</comments>
+		<link>https://ps4club.github.io/2536/</link>
+					<comments>https://ps4club.github.io/2536/#comments</comments>
 		
 		<dc:creator><![CDATA[MotherHcker]]></dc:creator>
 		<pubDate>Sat, 25 Sep 2021 06:18:24 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2536/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2536/</guid>
 
 					<description><![CDATA[I got my first ever platinum trophy recently! Absolutely loved this game. I&#8217;m planning on getting the platinum trophies for the rest of the Souls series next.]]></description>
 										<content:encoded><![CDATA[<p>I got my first ever platinum trophy recently! Absolutely loved this game. I&#8217;m planning on getting the platinum trophies for the rest of the Souls series next.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2536/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2536/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		

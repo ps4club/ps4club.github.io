@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Hollen_SD &#8211; WarHawk</title>
-	<atom:link href="/author/05a68b6a6ec44035e12699a7944e09b4/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/05a68b6a6ec44035e12699a7944e09b4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Wed, 22 Sep 2021 13:58:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>P-47 Lands with One Wing</title>
-		<link>/2687/</link>
-					<comments>/2687/#comments</comments>
+		<link>https://ps4club.github.io/2687/</link>
+					<comments>https://ps4club.github.io/2687/#comments</comments>
 		
 		<dc:creator><![CDATA[Hollen_SD]]></dc:creator>
 		<pubDate>Wed, 22 Sep 2021 13:58:53 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2687/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2687/</guid>
 
 					<description><![CDATA[P-47 Lands with One Wing]]></description>
 										<content:encoded><![CDATA[<p>P-47 Lands with One Wing</p>
 <p><iframe loading="lazy" title="P-47 Lands with One Wing" width="640" height="360" src="https://www.youtube.com/embed/eXfZadeOLFc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2687/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2687/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

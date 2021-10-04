@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Large-Wheel-4181 &#8211; WarHawk</title>
-	<atom:link href="/author/baf14010b35200f0a70e03255711fa74/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/baf14010b35200f0a70e03255711fa74/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Thu, 19 Aug 2021 06:09:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Squid Game was an evil version of Playstation</title>
-		<link>/2560/</link>
-					<comments>/2560/#comments</comments>
+		<link>https://ps4club.github.io/2560/</link>
+					<comments>https://ps4club.github.io/2560/#comments</comments>
 		
 		<dc:creator><![CDATA[Large-Wheel-4181]]></dc:creator>
 		<pubDate>Thu, 19 Aug 2021 06:09:43 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2560/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2560/</guid>
 
 					<description><![CDATA[Squid Game was an evil version of Playstation]]></description>
 										<content:encoded><![CDATA[<p>Squid Game was an evil version of Playstation</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2560/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2560/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		

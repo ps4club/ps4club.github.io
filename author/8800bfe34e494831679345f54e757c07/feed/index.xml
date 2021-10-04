@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ItsOkToBeWrong &#8211; WarHawk</title>
-	<atom:link href="/author/8800bfe34e494831679345f54e757c07/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/8800bfe34e494831679345f54e757c07/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Wed, 25 Aug 2021 23:36:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Okay okay!!!</title>
-		<link>/2571/</link>
-					<comments>/2571/#comments</comments>
+		<link>https://ps4club.github.io/2571/</link>
+					<comments>https://ps4club.github.io/2571/#comments</comments>
 		
 		<dc:creator><![CDATA[ItsOkToBeWrong]]></dc:creator>
 		<pubDate>Wed, 25 Aug 2021 23:36:19 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2571/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2571/</guid>
 
 					<description><![CDATA[Okay okay!!!]]></description>
 										<content:encoded><![CDATA[<p>Okay okay!!!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2571/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2571/feed/</wfw:commentRss>
 			<slash:comments>31</slash:comments>
 		
 		

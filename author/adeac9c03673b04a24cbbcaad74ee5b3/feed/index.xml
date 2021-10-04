@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Yousha212 &#8211; WarHawk</title>
-	<atom:link href="/author/adeac9c03673b04a24cbbcaad74ee5b3/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/adeac9c03673b04a24cbbcaad74ee5b3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Tue, 21 Sep 2021 11:22:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Gungrave G.O.R.E-Gameplay Reveal PS4, PS5</title>
-		<link>/2661/</link>
-					<comments>/2661/#comments</comments>
+		<link>https://ps4club.github.io/2661/</link>
+					<comments>https://ps4club.github.io/2661/#comments</comments>
 		
 		<dc:creator><![CDATA[Yousha212]]></dc:creator>
 		<pubDate>Tue, 21 Sep 2021 11:22:35 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2661/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2661/</guid>
 
 					<description><![CDATA[Gungrave G.O.R.E-Gameplay Reveal PS4, PS5]]></description>
 										<content:encoded><![CDATA[<p>Gungrave G.O.R.E-Gameplay Reveal PS4, PS5</p>
 <p><iframe loading="lazy" title="Gungrave G.O.R.E - Gameplay Reveal + Extended Cinematic Trailer | PS5, PS4" width="640" height="360" src="https://www.youtube.com/embed/xwGyD4ktGEo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2661/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2661/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

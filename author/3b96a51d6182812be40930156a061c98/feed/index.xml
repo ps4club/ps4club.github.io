@@ -9,8 +9,8 @@
 
 <channel>
 	<title>8thDragonball &#8211; WarHawk</title>
-	<atom:link href="/author/3b96a51d6182812be40930156a061c98/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/3b96a51d6182812be40930156a061c98/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Mon, 09 Aug 2021 01:41:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>[Ghost of Tsushima] I had no idea what to do at the shrine and then suddenly it work. Hands down the coolest outfit in the game.</title>
-		<link>/2530/</link>
-					<comments>/2530/#comments</comments>
+		<link>https://ps4club.github.io/2530/</link>
+					<comments>https://ps4club.github.io/2530/#comments</comments>
 		
 		<dc:creator><![CDATA[8thDragonball]]></dc:creator>
 		<pubDate>Mon, 09 Aug 2021 01:41:12 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2530/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2530/</guid>
 
 					<description><![CDATA[[Ghost of Tsushima] I had no idea what to do at the shrine and then suddenly it work. Hands down the coolest outfit in the game.]]></description>
 										<content:encoded><![CDATA[<p>[Ghost of Tsushima] I had no idea what to do at the shrine and then suddenly it work. Hands down the coolest outfit in the game.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2530/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2530/feed/</wfw:commentRss>
 			<slash:comments>15</slash:comments>
 		
 		

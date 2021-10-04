@@ -9,8 +9,8 @@
 
 <channel>
 	<title>GoOsEy_gOoSe_1 &#8211; WarHawk</title>
-	<atom:link href="/author/f803e7668b3d4aa1dc1c29a8d485f5a6/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/f803e7668b3d4aa1dc1c29a8d485f5a6/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Sat, 04 Sep 2021 20:39:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Horizon Zero Dawn is such a beautiful game</title>
-		<link>/2521/</link>
-					<comments>/2521/#comments</comments>
+		<link>https://ps4club.github.io/2521/</link>
+					<comments>https://ps4club.github.io/2521/#comments</comments>
 		
 		<dc:creator><![CDATA[GoOsEy_gOoSe_1]]></dc:creator>
 		<pubDate>Sat, 04 Sep 2021 20:39:25 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2521/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2521/</guid>
 
 					<description><![CDATA[Horizon Zero Dawn is such a beautiful game]]></description>
 										<content:encoded><![CDATA[<p>Horizon Zero Dawn is such a beautiful game</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2521/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2521/feed/</wfw:commentRss>
 			<slash:comments>46</slash:comments>
 		
 		

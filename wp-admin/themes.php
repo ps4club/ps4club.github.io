@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=http://gamefansite.yoogle.com/wp-login.php?redirect_to=http%3A%2F%2Fgamefansite.yoogle.com%2Fwp-admin%2Fthemes.php&reauth=1">
+		<meta http-equiv="refresh" content="0;url=https://ps4club.github.io/wp-login.php?redirect_to=http%3A%2F%2Fgamefansite.yoogle.com%2Fwp-admin%2Fthemes.php&reauth=1">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "http://gamefansite.yoogle.com/wp-login.php?redirect_to=http%3A%2F%2Fgamefansite.yoogle.com%2Fwp-admin%2Fthemes.php&reauth=1";
+			window.location = "https://ps4club.github.io/wp-login.php?redirect_to=http%3A%2F%2Fgamefansite.yoogle.com%2Fwp-admin%2Fthemes.php&reauth=1";
 		</script>
 
-		<p>You are being redirected to <a href="http://gamefansite.yoogle.com/wp-login.php?redirect_to=http%3A%2F%2Fgamefansite.yoogle.com%2Fwp-admin%2Fthemes.php&reauth=1">http://gamefansite.yoogle.com/wp-login.php?redirect_to=http%3A%2F%2Fgamefansite.yoogle.com%2Fwp-admin%2Fthemes.php&reauth=1</a></p>
+		<p>You are being redirected to <a href="https://ps4club.github.io/wp-login.php?redirect_to=http%3A%2F%2Fgamefansite.yoogle.com%2Fwp-admin%2Fthemes.php&reauth=1">https://ps4club.github.io/wp-login.php?redirect_to=http%3A%2F%2Fgamefansite.yoogle.com%2Fwp-admin%2Fthemes.php&reauth=1</a></p>
 	</body>
 </html>

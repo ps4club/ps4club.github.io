@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Darren1994stewart20 &#8211; WarHawk</title>
-	<atom:link href="/author/d7b49c3c059c3538315bab6dbb69a20c/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/d7b49c3c059c3538315bab6dbb69a20c/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Fri, 10 Sep 2021 23:35:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>A Crash Bandicoot test demo that I&#8217;ve produced in Dreams using the Crash 4 model. My first attempt at photo realism.</title>
-		<link>/2515/</link>
-					<comments>/2515/#comments</comments>
+		<link>https://ps4club.github.io/2515/</link>
+					<comments>https://ps4club.github.io/2515/#comments</comments>
 		
 		<dc:creator><![CDATA[Darren1994stewart20]]></dc:creator>
 		<pubDate>Fri, 10 Sep 2021 23:35:39 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2515/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2515/</guid>
 
 					<description><![CDATA[A Crash Bandicoot test demo that I&#8217;ve produced in Dreams using the Crash 4 model. My first attempt at photo realism.]]></description>
 										<content:encoded><![CDATA[<p>A Crash Bandicoot test demo that I&#8217;ve produced in Dreams using the Crash 4 model. My first attempt at photo realism.</p>
 <p><video      controls="controls"><source src="https://v.redd.it/saed7l8zzfr71/DASH_720.mp4?source=fallback" type="video/mp4"></video></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2515/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2515/feed/</wfw:commentRss>
 			<slash:comments>12</slash:comments>
 		
 		<enclosure url="https://v.redd.it/saed7l8zzfr71/DASH_720.mp4?source=fallback" length="21482762" type="video/mp4" />

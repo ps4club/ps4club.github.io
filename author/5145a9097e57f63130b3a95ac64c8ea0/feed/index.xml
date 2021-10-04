@@ -9,8 +9,8 @@
 
 <channel>
 	<title>megakd00 &#8211; WarHawk</title>
-	<atom:link href="/author/5145a9097e57f63130b3a95ac64c8ea0/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/5145a9097e57f63130b3a95ac64c8ea0/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Tue, 07 Sep 2021 19:01:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Has this happened to anyone else in their garage while playing gta 5 ?</title>
-		<link>/2705/</link>
-					<comments>/2705/#comments</comments>
+		<link>https://ps4club.github.io/2705/</link>
+					<comments>https://ps4club.github.io/2705/#comments</comments>
 		
 		<dc:creator><![CDATA[megakd00]]></dc:creator>
 		<pubDate>Tue, 07 Sep 2021 19:01:53 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2705/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2705/</guid>
 
 					<description><![CDATA[Has this happened to anyone else in their garage while playing gta 5 ?]]></description>
 										<content:encoded><![CDATA[<p>Has this happened to anyone else in their garage while playing gta 5 ?</p>
 <p><iframe loading="lazy" title="Murder Mystery?" width="640" height="360" src="https://www.youtube.com/embed/ZrAswEs3SUc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2705/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2705/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>jackd760 &#8211; WarHawk</title>
-	<atom:link href="/author/b1ce6d95ffeee465a32a7c43e6426913/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/b1ce6d95ffeee465a32a7c43e6426913/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Mon, 23 Aug 2021 07:20:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>[Warframe] 100% of the trophies achieved (posting it a bit late, lol) I am so happy.</title>
-		<link>/2601/</link>
-					<comments>/2601/#comments</comments>
+		<link>https://ps4club.github.io/2601/</link>
+					<comments>https://ps4club.github.io/2601/#comments</comments>
 		
 		<dc:creator><![CDATA[jackd760]]></dc:creator>
 		<pubDate>Mon, 23 Aug 2021 07:20:06 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2601/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2601/</guid>
 
 					<description><![CDATA[[Warframe] 100% of the trophies achieved (posting it a bit late, lol) I am so happy.]]></description>
 										<content:encoded><![CDATA[<p>[Warframe] 100% of the trophies achieved (posting it a bit late, lol) I am so happy.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2601/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2601/feed/</wfw:commentRss>
 			<slash:comments>6</slash:comments>
 		
 		

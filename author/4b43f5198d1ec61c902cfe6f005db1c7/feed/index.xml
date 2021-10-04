@@ -9,8 +9,8 @@
 
 <channel>
 	<title>yanggmd &#8211; WarHawk</title>
-	<atom:link href="/author/4b43f5198d1ec61c902cfe6f005db1c7/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ps4club.github.io/author/4b43f5198d1ec61c902cfe6f005db1c7/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ps4club.github.io/</link>
 	<description>War Games fan page</description>
 	<lastBuildDate>Fri, 27 Aug 2021 08:48:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Dirt 5 &#8211; Halloween Free Content Drop</title>
-		<link>/2658/</link>
-					<comments>/2658/#respond</comments>
+		<link>https://ps4club.github.io/2658/</link>
+					<comments>https://ps4club.github.io/2658/#respond</comments>
 		
 		<dc:creator><![CDATA[yanggmd]]></dc:creator>
 		<pubDate>Fri, 27 Aug 2021 08:48:18 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/2658/</guid>
+		<guid isPermaLink="false">https://ps4club.github.io/2658/</guid>
 
 					<description><![CDATA[Dirt 5 &#8211; Halloween Free Content Drop]]></description>
 										<content:encoded><![CDATA[<p>Dirt 5 &#8211; Halloween Free Content Drop</p>
 <p><iframe loading="lazy" title="Dirt 5 - Halloween Free Content Drop | PS5, PS4" width="640" height="360" src="https://www.youtube.com/embed/CLyrCeH1VKo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2658/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ps4club.github.io/2658/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
