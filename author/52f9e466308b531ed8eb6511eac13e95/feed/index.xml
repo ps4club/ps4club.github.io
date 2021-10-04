@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>brontozawr &#8211; WarHawk</title>
+	<atom:link href="/author/52f9e466308b531ed8eb6511eac13e95/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Mon, 13 Sep 2021 06:30:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Upcoming games — October 2021</title>
+		<link>/2749/</link>
+					<comments>/2749/#comments</comments>
+		
+		<dc:creator><![CDATA[brontozawr]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 06:30:38 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2749/</guid>
+
+					<description><![CDATA[Upcoming games — October 2021]]></description>
+										<content:encoded><![CDATA[<p>Upcoming games — October 2021</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2749/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

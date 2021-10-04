@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DeliciousPerformer41 &#8211; WarHawk</title>
+	<atom:link href="/author/f8589d315f34c812340e4d5c194f8693/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Mon, 20 Sep 2021 22:52:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>my photo of horizon zero dawn</title>
+		<link>/2580/</link>
+					<comments>/2580/#respond</comments>
+		
+		<dc:creator><![CDATA[DeliciousPerformer41]]></dc:creator>
+		<pubDate>Mon, 20 Sep 2021 22:52:03 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2580/</guid>
+
+					<description><![CDATA[my photo of horizon zero dawn]]></description>
+										<content:encoded><![CDATA[<p>my photo of horizon zero dawn</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2580/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>this game is extremely beautiful</title>
+		<link>/2545/</link>
+					<comments>/2545/#comments</comments>
+		
+		<dc:creator><![CDATA[DeliciousPerformer41]]></dc:creator>
+		<pubDate>Tue, 17 Aug 2021 03:42:15 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2545/</guid>
+
+					<description><![CDATA[this game is extremely beautiful]]></description>
+										<content:encoded><![CDATA[<p>this game is extremely beautiful</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2545/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The last of us part2</title>
+		<link>/2518/</link>
+					<comments>/2518/#comments</comments>
+		
+		<dc:creator><![CDATA[DeliciousPerformer41]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2021 12:31:20 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2518/</guid>
+
+					<description><![CDATA[The last of us part2]]></description>
+										<content:encoded><![CDATA[<p>The last of us part2</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2518/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

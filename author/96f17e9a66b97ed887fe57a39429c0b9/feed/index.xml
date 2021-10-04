@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FNSG_Anarchy &#8211; WarHawk</title>
+	<atom:link href="/author/96f17e9a66b97ed887fe57a39429c0b9/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Tue, 14 Sep 2021 18:35:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Free aim + Airborne I guess this could be considered Retro</title>
+		<link>/2613/</link>
+					<comments>/2613/#respond</comments>
+		
+		<dc:creator><![CDATA[FNSG_Anarchy]]></dc:creator>
+		<pubDate>Tue, 14 Sep 2021 18:35:29 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2613/</guid>
+
+					<description><![CDATA[Free aim + Airborne I guess this could be considered Retro]]></description>
+										<content:encoded><![CDATA[<p>Free aim + Airborne I guess this could be considered Retro</p>
+<p><iframe loading="lazy" title="GTA V Online FSP&amp;H Part 3 (Free aim Airborne)" width="640" height="360" src="https://www.youtube.com/embed/KmcdkUkxbMo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2613/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

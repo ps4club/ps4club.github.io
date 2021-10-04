@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ItsOkToBeWrong &#8211; WarHawk</title>
+	<atom:link href="/author/8800bfe34e494831679345f54e757c07/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Wed, 25 Aug 2021 23:36:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Okay okay!!!</title>
+		<link>/2571/</link>
+					<comments>/2571/#comments</comments>
+		
+		<dc:creator><![CDATA[ItsOkToBeWrong]]></dc:creator>
+		<pubDate>Wed, 25 Aug 2021 23:36:19 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2571/</guid>
+
+					<description><![CDATA[Okay okay!!!]]></description>
+										<content:encoded><![CDATA[<p>Okay okay!!!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2571/feed/</wfw:commentRss>
+			<slash:comments>31</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

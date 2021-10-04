@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GoOsEy_gOoSe_1 &#8211; WarHawk</title>
+	<atom:link href="/author/f803e7668b3d4aa1dc1c29a8d485f5a6/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Sat, 04 Sep 2021 20:39:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Horizon Zero Dawn is such a beautiful game</title>
+		<link>/2521/</link>
+					<comments>/2521/#comments</comments>
+		
+		<dc:creator><![CDATA[GoOsEy_gOoSe_1]]></dc:creator>
+		<pubDate>Sat, 04 Sep 2021 20:39:25 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2521/</guid>
+
+					<description><![CDATA[Horizon Zero Dawn is such a beautiful game]]></description>
+										<content:encoded><![CDATA[<p>Horizon Zero Dawn is such a beautiful game</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2521/feed/</wfw:commentRss>
+			<slash:comments>46</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

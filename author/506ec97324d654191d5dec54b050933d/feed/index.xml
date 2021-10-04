@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Virus19847 &#8211; WarHawk</title>
+	<atom:link href="/author/506ec97324d654191d5dec54b050933d/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Mon, 30 Aug 2021 19:20:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Which Games Will You Be buying from October ?</title>
+		<link>/2730/</link>
+					<comments>/2730/#comments</comments>
+		
+		<dc:creator><![CDATA[Virus19847]]></dc:creator>
+		<pubDate>Mon, 30 Aug 2021 19:20:00 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2730/</guid>
+
+					<description><![CDATA[Which Games Will You Be buying from October ?]]></description>
+										<content:encoded><![CDATA[<p>Which Games Will You Be buying from October ?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2730/feed/</wfw:commentRss>
+			<slash:comments>34</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

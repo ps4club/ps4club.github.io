@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ben__Harlan &#8211; WarHawk</title>
+	<atom:link href="/author/e44acb6e5710abc1d6eb6f7c6cd0aef9/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Tue, 28 Sep 2021 15:02:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>I made a pixelart of the beautiful PS4 game that is Journey (Twitter: @NLampreyPix)</title>
+		<link>/2643/</link>
+					<comments>/2643/#comments</comments>
+		
+		<dc:creator><![CDATA[Ben__Harlan]]></dc:creator>
+		<pubDate>Tue, 28 Sep 2021 15:02:52 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2643/</guid>
+
+					<description><![CDATA[I made a pixelart of the beautiful PS4 game that is Journey (Twitter: @NLampreyPix)]]></description>
+										<content:encoded><![CDATA[<p>I made a pixelart of the beautiful PS4 game that is Journey (Twitter: @NLampreyPix)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2643/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

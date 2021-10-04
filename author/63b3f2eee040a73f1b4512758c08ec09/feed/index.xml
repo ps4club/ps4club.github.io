@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elputas2090 &#8211; WarHawk</title>
+	<atom:link href="/author/63b3f2eee040a73f1b4512758c08ec09/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Sun, 29 Aug 2021 17:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>The Mighty Thor</title>
+		<link>/2524/</link>
+					<comments>/2524/#comments</comments>
+		
+		<dc:creator><![CDATA[Elputas2090]]></dc:creator>
+		<pubDate>Sun, 29 Aug 2021 17:39:22 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2524/</guid>
+
+					<description><![CDATA[The Mighty Thor]]></description>
+										<content:encoded><![CDATA[<p>The Mighty Thor</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2524/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

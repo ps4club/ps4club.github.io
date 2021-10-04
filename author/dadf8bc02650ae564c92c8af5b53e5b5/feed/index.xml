@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>RikkertNelis &#8211; WarHawk</title>
+	<atom:link href="/author/dadf8bc02650ae564c92c8af5b53e5b5/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Tue, 17 Aug 2021 18:26:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>My customized controller and the 2 I used.</title>
+		<link>/2631/</link>
+					<comments>/2631/#comments</comments>
+		
+		<dc:creator><![CDATA[RikkertNelis]]></dc:creator>
+		<pubDate>Tue, 17 Aug 2021 18:26:35 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2631/</guid>
+
+					<description><![CDATA[My customized controller and the 2 I used.]]></description>
+										<content:encoded><![CDATA[<p>My customized controller and the 2 I used.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2631/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

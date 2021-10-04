@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OpticalPrime35 &#8211; WarHawk</title>
+	<atom:link href="/author/22cee5e6f4b194d431738ba35d411c03/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Mon, 27 Sep 2021 11:24:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Diablo Resurrected &#8211; Strange visual glitch on PS4 ( Look at darker section below statue, the Black and Grey squares ). These are all over the screen and very distracting in darker areas.</title>
+		<link>/2564/</link>
+					<comments>/2564/#comments</comments>
+		
+		<dc:creator><![CDATA[OpticalPrime35]]></dc:creator>
+		<pubDate>Mon, 27 Sep 2021 11:24:13 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2564/</guid>
+
+					<description><![CDATA[Diablo Resurrected &#8211; Strange visual glitch on PS4 ( Look at darker section below statue, the Black and Grey squares ). These are all over the screen and very distracting [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Diablo Resurrected &#8211; Strange visual glitch on PS4 ( Look at darker section below statue, the Black and Grey squares ). These are all over the screen and very distracting in darker areas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2564/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

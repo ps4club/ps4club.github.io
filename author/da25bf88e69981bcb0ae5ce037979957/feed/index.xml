@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Letsgodudee &#8211; WarHawk</title>
+	<atom:link href="/author/da25bf88e69981bcb0ae5ce037979957/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Sat, 14 Aug 2021 06:13:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Apex Road to Masters( Need Teammates)</title>
+		<link>/2676/</link>
+					<comments>/2676/#comments</comments>
+		
+		<dc:creator><![CDATA[Letsgodudee]]></dc:creator>
+		<pubDate>Sat, 14 Aug 2021 06:13:19 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2676/</guid>
+
+					<description><![CDATA[Apex Road to Masters( Need Teammates)]]></description>
+										<content:encoded><![CDATA[<p>Apex Road to Masters( Need Teammates)</p>
+<p><video      controls="controls"><source src="https://v.redd.it/juakbqbhg2r71/DASH_720.mp4?source=fallback" type="video/mp4"></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2676/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		<enclosure url="https://v.redd.it/juakbqbhg2r71/DASH_720.mp4?source=fallback" length="10329764" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

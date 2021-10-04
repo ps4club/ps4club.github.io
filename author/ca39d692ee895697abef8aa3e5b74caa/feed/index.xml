@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>topolsek123 &#8211; WarHawk</title>
+	<atom:link href="/author/ca39d692ee895697abef8aa3e5b74caa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Wed, 29 Sep 2021 01:21:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Found the best theme ever.</title>
+		<link>/2589/</link>
+					<comments>/2589/#comments</comments>
+		
+		<dc:creator><![CDATA[topolsek123]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 01:21:26 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2589/</guid>
+
+					<description><![CDATA[Found the best theme ever.]]></description>
+										<content:encoded><![CDATA[<p>Found the best theme ever.</p>
+<p><video      controls="controls"><source src="https://v.redd.it/93p23f3bq0r71/DASH_1080.mp4?source=fallback" type="video/mp4"></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2589/feed/</wfw:commentRss>
+			<slash:comments>28</slash:comments>
+		
+		<enclosure url="https://v.redd.it/93p23f3bq0r71/DASH_1080.mp4?source=fallback" length="6663570" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

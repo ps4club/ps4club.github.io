@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FandomOnly &#8211; WarHawk</title>
+	<atom:link href="/author/6bbad04f80873d13532883ef748a1299/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Sun, 22 Aug 2021 11:39:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>I just started Iki Island and I love how beautiful the game is ❤️</title>
+		<link>/2640/</link>
+					<comments>/2640/#comments</comments>
+		
+		<dc:creator><![CDATA[FandomOnly]]></dc:creator>
+		<pubDate>Sun, 22 Aug 2021 11:39:40 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2640/</guid>
+
+					<description><![CDATA[I just started Iki Island and I love how beautiful the game is ❤️]]></description>
+										<content:encoded><![CDATA[<p>I just started Iki Island and I love how beautiful the game is <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2764.png" alt="❤" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2640/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

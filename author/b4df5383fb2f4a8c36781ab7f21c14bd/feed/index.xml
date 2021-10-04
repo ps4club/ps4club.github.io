@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dylflon &#8211; WarHawk</title>
+	<atom:link href="/author/b4df5383fb2f4a8c36781ab7f21c14bd/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Sun, 15 Aug 2021 06:30:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>I review PlayStation games assigned to me by a random number generator. This week I was cursed with Zombie Driver.</title>
+		<link>/2646/</link>
+					<comments>/2646/#comments</comments>
+		
+		<dc:creator><![CDATA[Dylflon]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2021 06:30:23 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2646/</guid>
+
+					<description><![CDATA[I review PlayStation games assigned to me by a random number generator. This week I was cursed with Zombie Driver.]]></description>
+										<content:encoded><![CDATA[<p>I review PlayStation games assigned to me by a random number generator. This week I was cursed with Zombie Driver.</p>
+<p><iframe loading="lazy" title="Zombie Driver Review - The Jaywalking Dead" width="640" height="360" src="https://www.youtube.com/embed/bEzs9IczQKw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2646/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

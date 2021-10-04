@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>RammsteinAro &#8211; WarHawk</title>
+	<atom:link href="/author/4171b907b5ef9c456f2ce796d6796ec5/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Thu, 26 Aug 2021 12:12:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Mortal Kombat 11 Fan-Art &#8220;Spawn&#8221;</title>
+		<link>/2548/</link>
+					<comments>/2548/#comments</comments>
+		
+		<dc:creator><![CDATA[RammsteinAro]]></dc:creator>
+		<pubDate>Thu, 26 Aug 2021 12:12:13 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2548/</guid>
+
+					<description><![CDATA[Mortal Kombat 11 Fan-Art &#8220;Spawn&#8221;]]></description>
+										<content:encoded><![CDATA[<p>Mortal Kombat 11 Fan-Art &#8220;Spawn&#8221;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2548/feed/</wfw:commentRss>
+			<slash:comments>17</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

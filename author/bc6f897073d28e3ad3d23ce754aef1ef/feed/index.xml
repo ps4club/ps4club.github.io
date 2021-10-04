@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PhattyChurro &#8211; WarHawk</title>
+	<atom:link href="/author/bc6f897073d28e3ad3d23ce754aef1ef/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Wed, 01 Sep 2021 00:55:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>About to buy these, heard Great things about them.</title>
+		<link>/2622/</link>
+					<comments>/2622/#comments</comments>
+		
+		<dc:creator><![CDATA[PhattyChurro]]></dc:creator>
+		<pubDate>Wed, 01 Sep 2021 00:55:55 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2622/</guid>
+
+					<description><![CDATA[About to buy these, heard Great things about them.]]></description>
+										<content:encoded><![CDATA[<p>About to buy these, heard Great things about them.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2622/feed/</wfw:commentRss>
+			<slash:comments>20</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

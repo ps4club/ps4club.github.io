@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Acidic_Tazerface &#8211; WarHawk</title>
+	<atom:link href="/author/97836c86b07c8209becf775bf14076af/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Thu, 09 Sep 2021 06:39:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Just got the platinum for Spider Man. Spider Man 2 is gonna be epic!</title>
+		<link>/2616/</link>
+					<comments>/2616/#comments</comments>
+		
+		<dc:creator><![CDATA[Acidic_Tazerface]]></dc:creator>
+		<pubDate>Thu, 09 Sep 2021 06:39:45 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2616/</guid>
+
+					<description><![CDATA[Just got the platinum for Spider Man. Spider Man 2 is gonna be epic!]]></description>
+										<content:encoded><![CDATA[<p>Just got the platinum for Spider Man. Spider Man 2 is gonna be epic!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2616/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>za_fierdaus24 &#8211; WarHawk</title>
+	<atom:link href="/author/644da212d095f895e136cf9dcb031440/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>War Games fan page</description>
+	<lastBuildDate>Sat, 11 Sep 2021 11:53:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Where is the option to change custom profile picture?</title>
+		<link>/2670/</link>
+					<comments>/2670/#comments</comments>
+		
+		<dc:creator><![CDATA[za_fierdaus24]]></dc:creator>
+		<pubDate>Sat, 11 Sep 2021 11:53:09 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/2670/</guid>
+
+					<description><![CDATA[Where is the option to change custom profile picture?]]></description>
+										<content:encoded><![CDATA[<p>Where is the option to change custom profile picture?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2670/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
