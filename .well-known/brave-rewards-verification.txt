@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ps4club.github.io
+Token: 9b4ab3836345e7ab395513e7b4395514918ac5b4f6b3f850fab7ce2722fb3187
